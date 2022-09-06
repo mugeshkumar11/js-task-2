@@ -9,7 +9,8 @@ let mugesh = function(){
 	if (fname.value){
 		p.innerText=fname.value;
 		list.appendChild(p);
-	}}
+		fname.value="";
+}}
 
 	
 	btn.addEventListener("click", function(){
