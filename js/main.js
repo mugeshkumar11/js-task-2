@@ -22,19 +22,6 @@ let mugesh = function(){
 
 
 
-/*
-
-
-let data = function firstname(){
-	for(let key in box){
-		console.log(box[key]);
-		let li = document.createElement("li");
-		li.innerText = box[key];
-		list.appendChild(li);
-	}
-}
-*/
-
 
 
 	
